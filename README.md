@@ -2,10 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=nishy49&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
-An accomplished graduate looking with an extensive experience in programming, who is seeking a new role as a Developer from Mumbai, Maharashtra, India.
-
-- 🌱 I’m currently pursuing Masters in Computer Applications.
-- 🌱 Learning and working on Software Development projects.
+I am a accomplished Business Analyst and AWS Consultant looking for experiences in cloud domain
+- 🌱 I’m currently working as AWS Consultant for DePronto Infotech .
+- 🌱 Learning and working on project management and cloud concepts.
 
 
 ### Follow me
