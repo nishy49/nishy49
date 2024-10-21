@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nishy49&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
-I am a accomplished Business Analyst and AWS Administrator looking for experiences in cloud domain
+I am an AWS Administrator looking for experiences in cloud domain
 - 🌱 I’m currently working as AWS Administrator for DePronto Infotech .
 - 🌱 Learning and working on project management and cloud concepts.
 
